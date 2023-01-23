@@ -1,6 +1,6 @@
 # ecc-msg
 #0 Requirements:
-Install JDK 19.0.2 - www.oracle.com/java/technologies/downloads/\#java19
+Install JDK for Windows 19.0.2 - https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
     
 #1 Idea: 
 Java implementation of Diffie-Hellman key exchange protocol with AES-GCM-SIV based on JDK-19 Oracle provider.
